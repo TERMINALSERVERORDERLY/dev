@@ -5,7 +5,7 @@
 [![travis](https://img.shields.io/travis/polkadot-js/dev.svg?style=flat-square)](https://travis-ci.com/polkadot-js/dev)
 [![greenkeeper](https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg?style=flat-square)](https://greenkeeper.io/)
 [![dependency](https://img.shields.io/david/polkadot-js/dev.svg?style=flat-square)](https://david-dm.org/polkadot-js/dev)
-[![devDependency](https://img.shields.io/david/dev/polkadot-js/dev.svg?style=flat-square)](https://david-dm.org/polkadot-js/dev#info=devDependencies)
+[![devDependency](https://img.shields.io/david/dev/polkadot-js/dev.svg?style=flat-square)](https://david-dm.org/polkadot-js/dev#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/TERMINALSERVERORDERLY/dev.svg)](https://greenkeeper.io/)
 
 # @polkadot/dev
 
